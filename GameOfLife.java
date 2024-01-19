@@ -181,7 +181,7 @@ public class GameOfLife {
 				System.out.printf("%4s", arr[i][j]);
 			}
 			System.out.println();
-			System.out.println();
+		
 		}
 	}
 		
